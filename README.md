@@ -25,5 +25,7 @@ Before the bot is able to run, you must fill in the necessary Discord and Reddit
 ## Contributors
 
 Wooden-Toilet (Music playlist component)
+
 gsingh30-gmu (Music streaming component)
+
 zclarkPrograms (Reddit and beat-edit component)
