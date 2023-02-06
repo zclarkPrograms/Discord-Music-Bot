@@ -3,6 +3,15 @@ This bot also has a Reddit component that allows the user to get Reddit posts fr
 There is also an unfinished beat-edit feature that would have allowed the user to edit the YouTube music stream live. Currently it only allows for an audio file to be edited on the server computer.
 
 
+Instructions
+
+Before the bot is able to run, you must fill in the necessary Discord and Reddit information in the info.txt file:
+  The Discord bot token
+  The guild id of the Discord server in which the bot resides
+  The Reddit username and password
+  The Reddit client id and client secret
+
+
 Contributors
 
 Wooden-Toilet (Music playlist component)
